@@ -127,6 +127,7 @@ GEM
       nokogiri (>= 1.2.0)
       rack (>= 1.0)
       rack-test (>= 0.5.3)
+    wirble (0.1.3)
     xml-simple (1.1.0)
 
 PLATFORMS
@@ -143,3 +144,4 @@ DEPENDENCIES
   sqlite3-ruby
   unicorn
   webrat
+  wirble

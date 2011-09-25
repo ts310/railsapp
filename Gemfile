@@ -29,3 +29,5 @@ gem 'aws-s3', :require => 'aws/s3'
 group :development, :test do
   gem 'webrat'
 end
+
+gem 'wirble'
